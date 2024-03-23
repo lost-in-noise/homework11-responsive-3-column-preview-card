@@ -1,0 +1,14 @@
+/* @media screen and (max-width: 992px) {
+  .container {
+    flex-direction: column;
+   
+  }
+  
+  .orange-block,
+  .cyan-block,
+  .dark-cyan-block {
+    width: 100%; 
+    max-width: fit-content;
+    
+  }
+} */

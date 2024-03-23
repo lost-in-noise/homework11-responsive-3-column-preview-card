@@ -14,4 +14,7 @@
   .dark-cyan-block {
     width: 100%;
   }
+  .btn {
+    margin-top: 0;
+  }
 }
